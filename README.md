@@ -3,6 +3,7 @@ I tried to answer the question if the ChatGPT (and the rise of LLM's in general)
 
 ### 2. Attempt at modelling the estimated compensation using different Regression Models
 
+Number of Job Offers from 2023 and 2024 data samples, that I obtained from [SourceStack](https://sourcestack.co/)
 ![image](https://github.com/anopsy/Juniors_vs_ChatGPT/assets/74981211/fd29a814-0616-4d22-a4cb-8dde936f019d)
 
 #### A. What I did:
