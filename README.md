@@ -2,9 +2,9 @@
 I tried to answer the question: Did the ChatGPT (and the rise of LLM's in general) replace Juniors?
   #### 1. [Exploratory Dataset Analysis](https://github.com/anopsy/Juniors_vs_ChatGPT/blob/main/dataset_EDA.md)
   In this document I summarized and visualized my findings about the dataset samples - from 2023 and 2024.
-  It contains results of [cleaning](https://github.com/anopsy/Juniors_vs_ChatGPT/blob/main/dry_cleaning.ipynb) and [analysis](https://github.com/anopsy/Juniors_vs_ChatGPT/blob/main/analysis.ipynb).
+  It contains results of [cleaning](https://github.com/anopsy/Juniors_vs_ChatGPT/blob/main/dry_cleaning.ipynb).
   #### 2. [Has ChatGPT replaced Juniors and Interns?](https://github.com/anopsy/Juniors_vs_ChatGPT/blob/main/Has%20ChatGPT%20replaced%20Juniors.md)
-  This document contains what I discovered while looking for the answer to the main question.
+  This document contains what I discovered while looking for the answer to the main question [analysis](https://github.com/anopsy/Juniors_vs_ChatGPT/blob/main/analysis.ipynb)
 
 
 ###  Attempt at modelling the estimated compensation using different Regression Models
