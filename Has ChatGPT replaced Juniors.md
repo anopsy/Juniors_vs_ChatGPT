@@ -107,6 +107,7 @@ explaining the rise in the number of Junior and Intern roles but a drop in the m
 
 
 Out of curiosity I also wanted to compare the changes in the number of remote job openings and also most popular job names and companies.   
+# 5. TODO How compansation changed per country?
 ##### 5. Remote Jobs changes
 Interestingly both the number of remote and non-remote jobs dropped and the number of jobs with an unclear status for possibility of working remotely increased.
 
