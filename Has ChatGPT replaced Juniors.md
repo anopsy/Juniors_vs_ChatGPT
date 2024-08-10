@@ -137,11 +137,14 @@ The next year only IBM kept the high number of Intern positions and the number o
 ![image](https://github.com/anopsy/junior/assets/74981211/893aaaf0-a8fb-4d2d-9de0-6a4331b50c42)
 
 ### Conclusions:
-The analysis of two sample data sets show an increase in the number of entry level jobs. 
-The distributions of number of jobs oer country changed. In case of Junior IC jobs there has been a substantial increase in the number of position in India.
-The increase in entry-level job opportunities, especially for Junior and Intern roles, could be influenced by the rise of large language models (LLMs) like Copilot and ChatGPT. 
-These LLMs have enabled creation of new products but also more efficient communication, more efficient code generation, documentation, and other tasks, leading to increased demand for software engineers and interns. However, the impact on compensation is probably due to changes in job locations but the underlying reasons remain unclear and would require further investigation focusing on country-specific pay changes and industry trends. 
-While LLMs contribute to job growth, they may not directly correlate with compensation changes. 
+The analysis of junior and intern job opportunities across various countries from 2023 to 2024 reveals significant shifts in the job market. The overall number of entry-level jobs increased, indicating a growing demand for junior and intern positions globally. While the number of junior jobs in the US experienced a slight decline, other countries saw more drastic changes. In 2023, the countries with the most junior jobs were the US, Germany, the UK, Canada, and Brazil. By 2024, the landscape had shifted, with the US, India, Germany, and South Africa leading in junior job opportunities.
+
+The most notable changes include a significant increase in entry-level opportunities in India, propelling it to second place, surpassing Germany. Conversely, the US saw the largest decrease in junior jobs, while India experienced the most substantial growth. The number of intern positions increased the most in the US, with a notable drop in Canada.
+
+These changes in job distribution and availability may have influenced the mean compensation for junior and intern roles, with the US generally offering higher pay compared to other regions. The increase in junior and intern roles in the US and India, coupled with changes in compensation, highlights the dynamic nature of the global job market.
+
+In relation to the null hypothesis that “ChatGPT replaced juniors and interns,” the data suggests otherwise. The increase in entry-level job opportunities indicates that the demand for human talent in junior and intern roles remains strong, despite advancements in AI technologies like ChatGPT.
+
 
 
 
