@@ -137,7 +137,8 @@ The next year only IBM kept the high number of Intern positions and the number o
 ![image](https://github.com/anopsy/junior/assets/74981211/893aaaf0-a8fb-4d2d-9de0-6a4331b50c42)
 
 ### Conclusions:
-
+The analysis of two sample data sets show an increase in the number of entry level jobs. 
+The distributions of number of jobs oer country changed. In case of Junior IC jobs there has been a substantial increase in the number of position in India.
 The increase in entry-level job opportunities, especially for Junior and Intern roles, could be influenced by the rise of large language models (LLMs) like Copilot and ChatGPT. 
 These LLMs have enabled creation of new products but also more efficient communication, more efficient code generation, documentation, and other tasks, leading to increased demand for software engineers and interns. However, the impact on compensation is probably due to changes in job locations but the underlying reasons remain unclear and would require further investigation focusing on country-specific pay changes and industry trends. 
 While LLMs contribute to job growth, they may not directly correlate with compensation changes. 
