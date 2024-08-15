@@ -1,9 +1,8 @@
-#TODO:
-## 1: Replace donuts charts with bar charts
-## 2: Change the charts showing increase/decrease from horizontal to vertical.
-## 3: Create a plot showing mean compensation change per country
+### TODO:
+#### 1: Replace donuts charts with bar charts
+#### 2: Change the charts showing increase/decrease from horizontal to vertical.
+#### 3: Create a plot showing mean compensation change per country
  
- ## Junior and Intern roles analysis
 
 ## Has ChatGPT replaced Juniors and Interns?
 In order to answer that question I’ll have a look at two datasets I obtained by querying the API of SourceStack - a company that aggregates job offers.
